@@ -71,6 +71,13 @@
 ## 📊 My Github Stats
 
 <br/>
+
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://github.com/ulitmate/ulitmate/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+<!-- Your existing stats for comparison -->
 <a href="https://github.com/ulitmate/github-readme-stats">
   <img alt="Victor Peter's Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=ulitmate&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
@@ -79,15 +86,9 @@
   <img alt="Victor Peter's Top Languages" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulitmate&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-
-<a href="https://github.com/ulitmate/github-readme-activity-graph">
-    <img alt="Victor Peter's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ulitmate&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
 
 <br/>
+<b>Note:</b> GitHub Metrics includes both public and private repository data.
 <br/>
 
 ## Connect with me:
