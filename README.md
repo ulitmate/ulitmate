@@ -3,19 +3,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Victor</h1>
 <h3 align="center">I'm a passionate Full Stack Developer who is constantly thinking of new ways to do stuffs.</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Mental Health APP for ladies](https://gistguard.com/)**
-
-- 🌱 I’m currently building **Robotics and Drone Development** for fun.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects** whenever i am free
-
-- 👨‍💻 Not all of my projects are  available to the public 
-
+- 🔭 I'm currently working on **[Mental Health APP for ladies](https://gistguard.com/)**
+- 🌱 I'm currently building **Robotics and Drone Development** for fun.
+- 👯 I'm looking to collaborate on **OpenSource Projects** whenever i am free
+- 👨‍💻 Not all of my projects are available to the public 
 - 📫 How to reach me **victorpeter232@gmail.com**
-
 - ⚡ Fun fact **I Love Investments and traveling.**
 
 ## 🚀 Languages and Tools:
@@ -66,12 +60,11 @@
     <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
     <a href="https://github.com/ulitmate/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Victor Peter's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ulitmate&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile" alt="Victor Peter's streak" src="https://streak-stats.demolab.com/?user=ulitmate&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -90,18 +83,18 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-<a href="https://github.com/ulitmate/github-readme-activity-graph"><img alt="Victor Peter's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ulitmate&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ulitmate/github-readme-activity-graph">
+    <img alt="Victor Peter's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ulitmate&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
 
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/victorpeter/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/thevictorpeter"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/thevictorpeterr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
 ## ❤ Views and Followers
