@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1271" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="954" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,15 +31,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 102 commits)</small>
+                    <small class="h-details">(computed from last 116 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -311,20 +311,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">hubxit/fireworks-mobile</span>
+                                        <span class="repo">ulitmate/sheshield</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">vick</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b65c8f</div>
-                                        <div class="message">Fix profile recording UX: First press works, timer/waveform stay in sync, prewarm mic permission
-
-- Replace waveform toggle with explicit setter in TeaserNotifier and FutureTeaserNotifier
-- Pre-request mic permission and prewarm recorder on screen load
-- Ensure timer only starts after AudioEngine confirms recording started
-- Keep waveform and timer UI states synchronized during start/stop/error paths
-- Fix timer disappearing while recording continues issue</div>
+                                        <div class="sha">#122328f</div>
+                                        <div class="message">ci(db): export DATABASE_URL to migration steps; add TCP preflight; script logs DB URL and TCP test</div>
                                     </div>
                                 </div>
                             </section>
@@ -337,20 +331,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ulitmate/pin-waterfall</span>
+                                        <span class="repo">ulitmate/sheshield</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/slate-support</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7e21f73</div>
-                                        <div class="message">Remove public marketing header from project details page
-
-- Remove Header and Footer components from ProjectDetails.tsx
-- Convert from public marketing page to dashboard-style page
-- Update loading and error states to match dashboard styling
-- Users no longer see 'Home', 'How It Works', etc navigation when viewing projects
-- Page now functions as internal dashboard page rather than public site</div>
+                                        <div class="sha">#8661637</div>
+                                        <div class="message">ci(tunnel): derive DB host/port from DATABASE_URL; tunnel to derived host; print derived values</div>
                                     </div>
                                 </div>
                             </section>
@@ -362,208 +350,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">ulitmate/pin-waterfall</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ulitmate/sheshield</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7af5bcc</div>
-                                        <div class="message">Fix TypeScript types for slates table to match database schema
-
-- Add deprecated priority and is_public fields to Row, Insert, and Update types
-- These fields still exist in database but are marked as deprecated
-- Ensures type safety and prevents runtime errors
-- Maintains backward compatibility while transitioning away from these fields
-- All slate-related operations should now have proper type checking</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58a57f4</div>
-                                        <div class="message">Create simpler MultiSelectGenres component to fix clicking issues
-
-- Create new multi-select-genres-simple.tsx without Command component dependency
-- Use native HTML input for search instead of CommandInput
-- Use simple button elements instead of CommandItem
-- Remove cmdk dependency issues that were causing the component to break
-- Update SlateWizard to use the simpler version
-- Should resolve clicking and dropdown functionality issues
-- Maintains same API and styling but with more reliable implementation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3a3f6a</div>
-                                        <div class="message">Fix MultiSelectGenres component breaking when clicked
-
-- Fix PopoverContent width from w-full to w-[400px] for proper sizing
-- Fix onSelect handler to explicitly pass genre.value instead of relying on event parameter
-- Add default export for better component compatibility
-- Resolve clicking issues that were preventing genre selection
-- Component should now properly open dropdown and allow genre selection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e97562</div>
-                                        <div class="message">Move 'Your Projects &amp; Slates' header to top of dashboard
-
-- Move header section with Create Slate and New Project buttons above the slates section
-- Remove duplicate header that was appearing later in the layout
-- Now the page flow is: Stats Overview -&gt; Header with buttons -&gt; Slates -&gt; Projects
-- Improves user experience by showing action buttons at the top where users expect them
-- Maintains proper visual hierarchy and logical content flow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80b4c78</div>
-                                        <div class="message">Implement user-facing slate details view and connect View button
-
-- Create new SlateDetails.tsx page with comprehensive slate information display
-- Add beautiful gradient design matching the app's purple/blue theme
-- Display slate overview, company information, funding strategy, and documents
-- Show quick stats, creator info, and file download options
-- Add responsive layout with main content and sidebar
-- Include proper loading states and error handling
-- Add route /slate-details/:id to App.tsx routing
-- Update handleViewSlate in Dashboard.tsx to navigate to slate details page
-- Remove 'Coming Soon' toast and implement actual functionality
-- Users can now view complete slate details when clicking View button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78e7e52</div>
-                                        <div class="message">Make slate budget upload optional in Step 3 (Funding Strategy)
-
-- Change FileUpload label from 'Slate Budget Upload' to 'Slate Budget Upload (Optional)'
-- Update description to clarify budget can be added later or project-specific budgets can be created
-- Remove required=true prop from FileUpload component
-- Change warning message from 'Budget Required' to 'Budget Upload Optional'
-- Update warning styling from yellow (warning) to blue (informational)
-- Update warning text to be more encouraging and less demanding
-- Users can now proceed without uploading budget even when selecting 'For the full slate'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc3fcec</div>
-                                        <div class="message">Remove Genre Focus field from Company Information step
-
-- Remove MultiSelectGenres component from Step 2 (Company Information)
-- Remove genreFocus from companyData state structure
-- Remove genre_focus from submit payload
-- Remove Genre Focus display from review section
-- Simplify company information to focus on core business details
-- Genre selection is now only handled in Step 1 (Slate Details) where it's more relevant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c6bb98</div>
-                                        <div class="message">Change Primary Genre to multi-select in SlateWizard Step 1
-
-- Update slateData.category from string to string[] array
-- Replace single Select dropdown with MultiSelectGenres component
-- Update validation logic to work with genre array
-- Update submit logic to use first genre for database compatibility
-- Update review section to display multiple genres as comma-separated list
-- Change label from 'Primary Genre' to 'Primary Genres' with required indicator
-- Allow up to 5 genre selections for better slate categorization</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cad7a0</div>
-                                        <div class="message">Update SlateWizard Step 1 to use purple theme instead of green
-
-- Change Card background from green-50 to purple-50
-- Update header gradient from green-500/teal-500 to purple-500/blue-500
-- Change CardDescription from text-green-100 to text-purple-100
-- Update all input borders from green-200/green-500 to purple-200/purple-500
-- Change tag styling from green theme to purple theme
-- Now both Step 1 and Step 2 use consistent purple branding</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed16cdf</div>
-                                        <div class="message">Complete SlateWizard Step 2 fix: Replace all slate content with proper company information fields
-
-- Replace Slate Description with Company Description
-- Replace Primary Genre with Tagline/Mission Statement
-- Replace Deck Upload with Cover Photo Upload
-- Add Company Founder and Founding Year fields
-- Add Company Headquarters Location field
-- Replace Tags with Genre Focus multi-select
-- All fields now use companyData state and purple theme
-- Fix MultiSelectGenres props (value/onChange)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a14659d</div>
-                                        <div class="message">Fix SlateWizard Step 2: Update company name field to use correct data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bca684</div>
-                                        <div class="message">Fix SlateWizard content mismatch: properly align step content with headers
-
-- Step 1 now correctly shows slate details (name, description, genre, deck, tags)
-- Step 2 header correctly shows Company Information
-- Fixed the content mismatch where headers and content were swapped
-- Step 1 uses green theme for slate details
-- Step 2 uses purple theme for company information
-- Still need to complete step 2 content replacement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32ea13f</div>
-                                        <div class="message">WIP: Partial step swap in SlateWizard - headers and validation updated
-
-- Updated step titles and icons (Step 1: Slate Details, Step 2: Company Info)
-- Updated validation logic to match new step order
-- Updated step headers and descriptions
-- Still need to swap the actual form content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d7e1b0</div>
-                                        <div class="message">Reorder dashboard layout: move slate overview to first position and slates section to top
-
-- Move slate overview card from 4th position to 1st position in stats grid
-- Move slates section from bottom of page to right after overview section
-- Improve user experience by prioritizing slate information</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab3e926</div>
-                                        <div class="message">Update slate summary display: show slate name, company name, project count, creation date, and creator
-
-- Remove deprecated fields: priority, isPublic, category, description
-- Update SlateCard component with new simplified layout
-- Update slate queries to fetch creator profile information
-- Update AddProjectToSlateModal to use new slate format
-- Create separate migration files for storage buckets and policies
-- Add creator name display in slate cards and modals</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29417e3</div>
-                                        <div class="message">Update slate categories to use movie/TV genres
-
-- Replace generic categories with comprehensive movie/TV genres (25 options)
-- Update SlateWizard form from 'Category' to 'Primary Genre'
-- Add migration to convert existing data and update database constraints
-- Include all major film and TV genres: action, comedy, drama, horror, etc.
-- Clean migration handles existing test data and invalid categories</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08ac60f</div>
-                                        <div class="message">Remove priority and public fields from slate form
-
-- Remove priority level and public/private fields from SlateWizard
-- Update form state and validation to exclude removed fields
-- Update TypeScript types to remove priority and is_public
-- Add safe deprecation migration for unused database columns
-- Simplify slate creation flow for better UX</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#664dc97</div>
-                                        <div class="message">feat: Add slate count bubble to top stats row
-
-- Move slate stats to top stats overview alongside projects
-- Change grid from 3 to 4 columns (responsive: 1-&gt;2-&gt;4)
-- Add green-themed slate stats card with Package icon
-- Shows total slate count with 'Project collections' description
-- Maintains visual consistency with existing stat cards</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab0fa68</div>
-                                        <div class="message">feat: Add comprehensive slate project management modal with search and bulk operations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9139e78</div>
-                                        <div class="message">feat: Complete slate system with database backend and full CRUD functionality</div>
+                                        <div class="sha">#3e242ff</div>
+                                        <div class="message">ci(db): append sslmode=require to DATABASE_URL and export via GITHUB_ENV; rely on tunnel</div>
                                     </div>
                                 </div>
                             </section>
@@ -572,16 +367,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#1 Feature/slate support</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ulitmate/sheshield</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">ulitmate/pin-waterfall</span></div>
-                                    <div>27 files changed <span class="code">++5424 --23</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84e1c82</div>
+                                        <div class="message">ci(tunnel): add verbose ssh logs and tunnel verification; print sanitized DATABASE_URL</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -589,16 +387,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#1 Feature/slate support</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ulitmate/sheshield</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">ulitmate/pin-waterfall</span></div>
-                                    <div>27 files changed <span class="code">++5424 --23</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d5ea06e</div>
+                                        <div class="message">ci: revert DB URL to DEV_DATABASE_URL for migrations; keep tunnel for bastion</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -625,7 +426,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2025, 08:18:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2025, 20:45:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
