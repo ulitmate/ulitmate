@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1539" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1665" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.audit.text{min-width:42px}.audit svg{margin:0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.audit.text{min-width:42px}.audit svg{margin:0}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -285,11 +285,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 14 commits)</small>
+                    <small class="h-details">(computed from last 15 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 18:00</li>
+                        <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -303,6 +303,456 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">hubxit/fireworks-mobile</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">vick</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#27daa1f</div>
+                                        <div class="message">🚨 CRITICAL: Fix gray chat and percent encoding crash
+
+✅ GRAY CHAT ISSUE RESOLVED:
+- Fixed controller instance mismatch in BuildListMessages
+- initState() used ref.read() but build() used ref.watch()
+- Different instances caused populated listMessage to be lost
+- Now uses consistent controller instance throughout lifecycle
+
+✅ SENTRY CRASH FIXED:
+- Fixed ArgumentError: Illegal percent encoding in URI
+- Added try-catch to _decodePreviewText() in message_tile.dart
+- Gracefully handles malformed URL encoding in preview text
+- Returns original text if Uri.decodeComponent() fails
+
+🐛 CONTROLLER INSTANCE BUG FIXED:
+BEFORE (BROKEN):
+- initState(): chatController = ref.read(chatScreenProvider)
+- build(): final chatController = ref.watch(chatScreenProvider)
+- Two different controller instances = lost message data
+- Stream populated one instance, UI read from another
+
+AFTER (WORKING):
+- initState(): chatController = ref.read(chatScreenProvider)
+- build(): Uses same chatController instance from initState
+- Single controller instance maintains message state
+- Stream and UI use same data source
+
+🛡️ PERCENT ENCODING CRASH FIXED:
+BEFORE (CRASHING):
+- Uri.decodeComponent(text) throws ArgumentError on malformed encoding
+- App crashes when preview text contains illegal percent encoding
+- Sentry reports fatal errors in production
+
+AFTER (SAFE):
+- try { Uri.decodeComponent(text) } catch (e) { return text; }
+- Graceful fallback to original text if decoding fails
+- No crashes from malformed URL encoding
+
+📱 CHAT FUNCTIONALITY RESTORED:
+- Messages now display correctly in chat interface
+- No more gray/empty chat screens
+- Preview text displays safely without crashes
+- Professional messaging experience
+
+🚀 PRODUCTION IMPACT:
+- Chat messages visible immediately after opening
+- No more Sentry crashes from URL decoding
+- Reliable message loading and display
+- Stable chat functionality for all users
+
+💬 USER EXPERIENCE FIXED:
+- Open chat → See messages immediately ✅
+- Preview text displays correctly ✅
+- No app crashes from malformed data ✅
+- Professional chat reliability ✅
+
+🔧 TECHNICAL DETAILS:
+- Consistent Riverpod controller instance usage
+- Safe URL decoding with error handling
+- Proper state management in chat components
+- Defensive programming for malformed data
+
+Version: 1.0.18+153 - CRITICAL CHAT &amp; CRASH FIXES</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7b8ac8</div>
+                                        <div class="message">🚨 CRITICAL: Fix chat stream listener to load existing messages
+
+✅ CHAT DATA LOADING RESTORED:
+- Removed isNotEmpty guard that was blocking message processing
+- Stream listener now always processes snapshots (empty or not)
+- Fixed critical bug preventing old messages from loading
+- Chat messages now display correctly instead of showing gray/empty state
+
+🐛 STREAM LISTENER BUG FIXED:
+BEFORE (BROKEN):
+- if (snapshot.docs.isNotEmpty) { process messages }
+- Empty snapshots were IGNORED, never calling onListMessageSet()
+- Existing messages never loaded, chat appeared empty
+- UI showed 'No messages here yet' even when messages existed
+
+AFTER (WORKING):
+- Always call chatController.onListMessageSet(snapshot.docs)
+- Process ALL snapshots regardless of content
+- Existing messages load correctly from Firestore
+- Chat displays all messages as expected
+
+🎯 FIRESTORE INTEGRATION FIXED:
+- Stream listener processes empty and populated snapshots
+- onListMessageSet() called for all Firestore responses
+- lastVisibleMessage tracking works for pagination
+- UI rebuilds reflect current message state
+
+📱 CHAT FUNCTIONALITY RESTORED:
+- Old messages now visible in chat interface
+- New messages display immediately after sending
+- Proper message loading and pagination
+- Professional chat experience restored
+
+🚀 PRODUCTION IMPACT:
+- Chat no longer appears gray/empty
+- Existing conversations load correctly
+- Message history accessible to users
+- Reliable chat data flow end-to-end
+
+💬 USER EXPERIENCE FIXED:
+- Open chat → See existing messages ✅
+- Send message → See in conversation ✅
+- Scroll up → Load older messages ✅
+- Professional messaging app behavior restored
+
+🔧 TECHNICAL DETAILS:
+- Always process snapshot.docs in stream listener
+- Remove conditional message processing guard
+- Ensure setState() called for UI updates
+- Maintain proper loading and pagination state
+
+Version: 1.0.18+152 - CRITICAL CHAT MESSAGE LOADING FIXED</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14b4279</div>
+                                        <div class="message">🚨 CRITICAL: Fix subcollection path mismatch in message storage
+
+✅ FIRESTORE SUBCOLLECTION CONSISTENCY FIXED:
+- Changed sendMessageAtomic() to write to threadId subcollection instead of 'items'
+- Matches existing read paths used by getChatStream() and getTotalMessagesCount()
+- Ensures new messages are visible in chat UI immediately after sending
+- Maintains compatibility with existing message data and readers
+
+🐛 CRITICAL CHAT DATA BUG RESOLVED:
+BEFORE (BROKEN):
+- sendMessageAtomic() wrote to: /messages/{threadId}/items/{msgId}
+- getChatStream() read from: /messages/{threadId}/{threadId}/{msgId}
+- MISMATCH: New messages written to wrong subcollection
+- Result: Messages sent but invisible in chat UI (data isolation)
+
+AFTER (CONSISTENT):
+- sendMessageAtomic() writes to: /messages/{threadId}/{threadId}/{msgId}
+- getChatStream() reads from: /messages/{threadId}/{threadId}/{msgId}
+- MATCH: Write and read paths use same subcollection
+- Result: Messages sent and immediately visible in chat UI
+
+🎯 FIRESTORE PATH CONSISTENCY:
+- Write path: threadRef.collection(threadId).doc(msgId)
+- Read path: .doc(groupChatId).collection(groupChatId)
+- Both use threadId/groupChatId as subcollection name
+- Maintains existing data structure and compatibility
+
+📱 CHAT FUNCTIONALITY RESTORED:
+- New messages via sendMessageAtomic() now display in chat UI
+- Message counters (getTotalMessagesCount) include new messages
+- Chat streams (getChatStream) show all messages including new ones
+- No more 'message sent but not visible' user confusion
+
+🔧 MINIMAL CHANGE STRATEGY:
+- Single line fix (collection('items') → collection(threadId))
+- No migration needed for existing data
+- All existing readers continue working unchanged
+- Backward compatible with legacy sendMessage() path
+
+🚀 PRODUCTION IMPACT:
+- Chat messages now display immediately after sending
+- No more split-brain data storage across subcollections
+- Reliable message delivery and display consistency
+- Professional chat experience with proper data flow
+
+💬 USER EXPERIENCE FIXED:
+- Send message → See message in chat immediately ✅
+- No more 'where did my message go?' confusion
+- Reliable chat functionality matching user expectations
+- Professional messaging app behavior
+
+Version: 1.0.18+150 - CRITICAL CHAT DATA CONSISTENCY FIXED</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6c01eb</div>
+                                        <div class="message">🚨 CRITICAL: Fix notification async handling and premature read marking
+
+✅ NOTIFICATION RELIABILITY FIXED:
+- Made Firestore listener callback async to properly handle Future operations
+- Added await for showNotification() to ensure display completes before read marking
+- Added await for markNotificationAsRead() for proper async flow
+- Wrapped operations in try/catch to prevent premature read marking on failures
+
+🐛 NOTIFICATION RACE CONDITION RESOLVED:
+BEFORE (BROKEN):
+- showNotification() called without await (fire-and-forget)
+- markNotificationAsRead() called immediately after
+- Race condition: notification marked as read before actually displayed
+- Silent failures: async errors from showNotification() escaped
+- Lost notifications: failed displays still marked as read
+
+AFTER (RELIABLE):
+- async listener callback properly handles Future operations
+- await showNotification() ensures notification displays before proceeding
+- await markNotificationAsRead() only after successful notification display
+- try/catch prevents premature read marking on display failures
+- Failed notifications remain unread for retry opportunities
+
+🎯 ASYNC OPERATION SEQUENCING:
+1. Firestore document added (new notification)
+2. Listener callback triggered with async support
+3. showNotification() awaited until display completes
+4. markNotificationAsRead() called only after successful display
+5. Document marked as read only when user actually received notification
+
+🔒 ERROR HANDLING IMPROVEMENTS:
+- Async errors from showNotification() now caught and logged
+- Async errors from markNotificationAsRead() now caught and logged
+- Failed notifications remain unread (allows retry/reprocessing)
+- Detailed error logging for debugging notification issues
+
+📱 NOTIFICATION DELIVERY RELIABILITY:
+- No more lost notifications due to display failures
+- Accurate read status reflecting actual user notification receipt
+- Proper retry mechanism for failed notification displays
+- Professional notification handling following async best practices
+
+🚀 PRODUCTION IMPACT:
+- Users receive all notifications reliably (no silent failures)
+- Notification read status accurately reflects delivery
+- Better debugging with proper async error handling
+- Improved user engagement through reliable notification delivery
+
+🎯 USER EXPERIENCE IMPROVEMENTS:
+- No missed chat messages due to notification failures
+- Accurate notification badges and read states
+- Reliable push notification system for user engagement
+- Professional notification experience matching system apps
+
+Version: 1.0.18+150 - CRITICAL NOTIFICATION RELIABILITY FIXED</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef8d400</div>
+                                        <div class="message">🚨 CRITICAL: Fix late field crash in MessageView authentication
+
+✅ LATE INITIALIZATION ERROR PREVENTED:
+- Added proper authentication validation before late field assignment
+- Ensures currentUserId is always assigned when accessed
+- Graceful early exit with navigation back when user not authenticated
+- Prevents LateInitializationError crashes on chat access
+
+🐛 AUTHENTICATION CRASH BUG RESOLVED:
+BEFORE (CRASH-PRONE):
+- late final String currentUserId declared but conditionally assigned
+- if (authRepo.currentUser?.uid.isNotEmpty == true) { assign }
+- No else branch - currentUserId never assigned if condition fails
+- Unconditional usage: print(currentUserId), currentUserId.compareTo()
+- Result: LateInitializationError crash when user not authenticated
+
+AFTER (SAFE):
+- Validate authentication state before any late field access
+- Early exit with Navigator.pop() when user not authenticated
+- Guaranteed currentUserId assignment only after validation
+- All subsequent usage is safe (currentUserId always assigned)
+
+🔒 AUTHENTICATION EDGE CASES HANDLED:
+- User not logged in: Navigate back instead of crash
+- Empty user ID: Navigate back instead of crash
+- Null user object: Navigate back instead of crash
+- Session expired: Navigate back instead of crash
+- Authentication service failure: Navigate back instead of crash
+
+🎯 CRASH SCENARIOS ELIMINATED:
+- App startup before auth completes: No crash ✅
+- Session expiry during chat access: No crash ✅
+- Network auth failures: No crash ✅
+- Account deletion/suspension: No crash ✅
+- Development without auth setup: No crash ✅
+
+📱 PRODUCTION SAFETY:
+- Chat feature protected against authentication edge cases
+- Graceful degradation instead of app crashes
+- User-friendly behavior (navigate back vs crash)
+- Professional error handling for auth state issues
+
+🚀 USER EXPERIENCE IMPROVEMENTS:
+- No more sudden app crashes when opening chats
+- Smooth navigation back to previous screen on auth issues
+- Clear error logging for debugging authentication problems
+- Robust chat access that handles all authentication states
+
+Version: 1.0.18+150 - CRITICAL AUTH CRASH PREVENTION</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#865a994</div>
+                                        <div class="message">🗑️ CLEANUP: Remove dead legacy gallery controller
+
+✅ DEAD CODE ELIMINATION:
+- Deleted unused lib/src/shared/gallery_controller.dart (163 lines)
+- File never imported or referenced anywhere in codebase
+- Functionality replaced by CustomPhotoGallery direct implementation
+- Reduces codebase complexity and maintenance burden
+
+🧹 LEGACY CODE CLEANUP:
+REMOVED (DEAD CODE):
+- GalleryController class (never instantiated)
+- Photo album loading logic (duplicated elsewhere)
+- Permission handling (superseded by CustomPhotoGallery)
+- Asset management (handled by CustomPhotoGallery state)
+
+CURRENT GALLERY SYSTEM (ACTIVE):
+- GalleryHelper.showGalleryPicker() - Main entry point ✅
+- CustomPhotoGallery widget - Actual gallery UI ✅
+- _CustomPhotoGalleryState - Direct photo loading logic ✅
+- Used by: chat, profile teaser, future teaser features ✅
+
+📊 CODEBASE IMPACT:
+- Removed 163 lines of unused code
+- Eliminated duplicate gallery functionality
+- Cleaner architecture with single gallery implementation
+- Reduced maintenance burden (one less file to update)
+
+🎯 VERIFICATION PROCESS:
+- Comprehensive search: zero imports of gallery_controller
+- No constructor calls: GalleryController() never instantiated
+- No references: class name not used anywhere
+- Active alternative: CustomPhotoGallery handles all gallery needs
+
+🚀 BENEFITS:
+- Smaller codebase (easier navigation)
+- Less developer confusion (single gallery approach)
+- Reduced maintenance overhead
+- Cleaner project structure
+
+Version: 1.0.18+150 - DEAD CODE CLEANUP COMPLETE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e80ac06</div>
+                                        <div class="message">📊 ANALYTICS: Add missing playback completion tracking
+
+✅ PLAYBACK COMPLETION ANALYTICS IMPLEMENTED:
+- Added trackPlaybackCompleted() call in playback_complete event handler
+- Captures identifier, context, and duration before clearing state
+- Non-blocking error handling to prevent analytics failures from breaking audio
+- Completes the analytics lifecycle: start → complete tracking
+
+🐛 ANALYTICS GAP RESOLVED:
+BEFORE (INCOMPLETE):
+- trackPlaybackStarted() called when audio begins ✅
+- trackPlaybackCompleted() method exists but NEVER called ❌
+- Analytics dashboard shows only start events (150 starts, 0 completions)
+- Missing user engagement metrics and completion rates
+- Can't calculate actual listening duration or drop-off patterns
+
+AFTER (COMPLETE):
+- trackPlaybackStarted() called when audio begins ✅
+- trackPlaybackCompleted() called when audio finishes ✅
+- Full analytics lifecycle: start → duration → completion
+- Complete user engagement metrics available
+- Business insights into audio content consumption
+
+📊 ANALYTICS DATA NOW AVAILABLE:
+- Total playback completions (how much audio users actually listen to)
+- Average playback duration (user engagement with audio content)
+- Completion rate percentage (started vs finished)
+- Context-specific completion patterns (chat vs profile vs notification)
+- User listening behavior insights (skip patterns, engagement trends)
+
+🎯 IMPLEMENTATION DETAILS:
+- Captures data BEFORE clearing _currentTrackId and _currentContext
+- Uses _currentDuration for accurate playback time tracking
+- Null-safe with _currentTrackId check to prevent errors
+- Non-blocking try/catch to prevent analytics errors from breaking audio
+- Maintains existing state transition flow (idle → null → none)
+
+🚀 BUSINESS VALUE UNLOCKED:
+- User engagement metrics: Do users listen to full voice messages?
+- Content optimization: Which audio formats/lengths have best completion?
+- Performance correlation: Does faster loading improve completion rates?
+- Feature usage insights: How engaged are users with audio content?
+
+📱 PRODUCTION IMPACT:
+- Complete analytics dashboard with start and completion events
+- Data-driven audio UX optimization opportunities
+- User behavior insights for product development
+- Professional analytics implementation following best practices
+
+Version: 1.0.18+150 - ANALYTICS COMPLETION TRACKING ADDED</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d3cc37</div>
+                                        <div class="message">🎯 FIX: Synchronize AudioEngine context tracking
+
+✅ AUDIO CONTEXT SYNCHRONIZATION FIXED:
+- Added _currentContext updates in play() and startRecording() methods
+- Reset _currentContext to none on stop(), interruption, and completion
+- Synchronized AudioEngine._currentContext with AudioContextManager
+- Ensures external consumers get accurate current audio context
+
+🐛 STATE CONSISTENCY BUG RESOLVED:
+BEFORE (BROKEN):
+- _contextManager.setContext(context) updated manager only
+- AudioEngine._currentContext remained 'none' always
+- External consumers got wrong context information
+- Route change recovery used stale context data
+- Analytics miscategorized all audio as 'none' context
+
+AFTER (SYNCHRONIZED):
+- _currentContext = context before setContext() calls
+- AudioEngine._currentContext reflects actual audio mode
+- External consumers get accurate context information
+- Route change recovery uses correct current context
+- Analytics properly categorize audio by actual context
+
+🎯 CONTEXT LIFECYCLE MANAGEMENT:
+- Play/Record START: _currentContext = provided context
+- Operations STOP: _currentContext = AudioEngineContext.none
+- Interruption END: _currentContext = AudioEngineContext.none
+- Playback COMPLETE: _currentContext = AudioEngineContext.none
+- Proper state transitions for all audio lifecycle events
+
+📊 ANALYTICS &amp; CONSUMER BENEFITS:
+- AudioEngine.instance.currentContext returns accurate values
+- Route change handlers restore correct audio session context
+- Background audio service gets proper context information
+- Analytics can properly categorize audio usage patterns
+- State consumers can rely on accurate context information
+
+🔧 AUDIO SESSION RECOVERY:
+- Route changes (headphone connect/disconnect) now restore correct context
+- Audio interruptions properly reset context on completion
+- Professional audio session management following iOS best practices
+
+🚀 PRODUCTION IMPROVEMENTS:
+- Reliable context tracking for external API consumers
+- Accurate analytics data for audio usage patterns
+- Better audio session recovery after interruptions
+- Professional state management throughout audio lifecycle
+
+Version: 1.0.18+150 - AUDIO CONTEXT SYNCHRONIZATION FIXED</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1244,26 +1694,6 @@ fix: correct CUDA base image tags in all model Dockerfiles</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BASTARDFRANKENSTEIN/pin-incentives-chatbot-ui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/ai-testing-ui</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#96678c0</div>
-                                        <div class="message">docs: Add enterprise authentication and logging architecture for 120B model</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1287,7 +1717,7 @@ fix: correct CUDA base image tags in all model Dockerfiles</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2025, 08:02:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2025, 20:03:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
