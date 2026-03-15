@@ -25,6 +25,13 @@ My work sits at the intersection of product thinking and engineering discipline:
 - Exploring robotics and drone development
 - Growing deeper in scalable systems, architecture, and product execution
 
+## Mission
+
+- I want to build world-class software access for people priced out of essential tools
+- Over the next five years, I want to rebuild useful paid products in ways that make them accessible to people in developing markets
+- My goal is to create affordable or free alternatives for users who are priced out of high-cost software they still genuinely need
+- Where it makes sense, I want that work to be open source so more people can use it, improve it, and build on it
+
 ## How I Work
 
 - I care about clean systems, not just working demos
