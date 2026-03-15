@@ -38,7 +38,3 @@ My work sits at the intersection of product thinking and engineering discipline:
 - X: [@thevictorpeter](https://twitter.com/thevictorpeter)
 - Instagram: [@thevictorpeterr](https://www.instagram.com/thevictorpeterr/)
 - Email: [victorpeter232@gmail.com](mailto:victorpeter232@gmail.com)
-
-## Profile Notes
-
-This profile is intentionally static and privacy-safe. It does not use auto-generated contribution widgets, private activity summaries, or third-party metrics cards.
